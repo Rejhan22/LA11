@@ -7,6 +7,11 @@
                  start-page="starter.md">
 
     <toc-element topic="starter.md">
+        <toc-element topic="React.md">
+            <toc-element topic="Hooks.md"/>
+            <toc-element topic="State.md"/>
+            <toc-element topic="Components.md"/>
+        </toc-element>
         <toc-element topic="Reflexion-schulische-Aufgaben.md">
             <toc-element topic="Schule_16-20-12-2024.md"/>
         </toc-element>
