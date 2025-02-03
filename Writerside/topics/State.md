@@ -1,3 +1,0 @@
-# State
-
-Start typing here...
