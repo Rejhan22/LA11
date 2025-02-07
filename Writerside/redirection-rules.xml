@@ -10,4 +10,40 @@
         <description>Created after removal of "State" from Instance Name</description>
         <accepts>State.html</accepts>
     </rule>
+    <rule id="34076195">
+        <description>Created after removal of "Event Handling" from Instance Name</description>
+        <accepts>Interaktivität.html</accepts>
+    </rule>
+    <rule id="2bddb326">
+        <description>Created after removal of "Props" from Instance Name</description>
+        <accepts>Props.html</accepts>
+    </rule>
+    <rule id="2929d3d4">
+        <description>Created after removal of "Setup with Vite" from Instance Name</description>
+        <accepts>Setup-with-Vite.html</accepts>
+    </rule>
+    <rule id="7450ec09">
+        <description>Created after removal of "Komponenten" from Instance Name</description>
+        <accepts>Components.html</accepts>
+    </rule>
+    <rule id="611eb0c2">
+        <description>Created after removal of "Hooks" from Instance Name</description>
+        <accepts>Hooks.html</accepts>
+    </rule>
+    <rule id="6cfbb7e8">
+        <description>Created after removal of "Tailwind CSS Setup" from Instance Name</description>
+        <accepts>Tailwind-CSS-Setup.html</accepts>
+    </rule>
+    <rule id="1d17e00e">
+        <description>Created after removal of "JSX" from Instance Name</description>
+        <accepts>JSX-Crash-Course.html</accepts>
+    </rule>
+    <rule id="7bacee22">
+        <description>Created after removal of "Wrapper Components" from Instance Name</description>
+        <accepts>Wrapper-Components.html</accepts>
+    </rule>
+    <rule id="28487a20">
+        <description>Created after removal of "React" from Instance Name</description>
+        <accepts>React.html</accepts>
+    </rule>
 </rules>

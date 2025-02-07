@@ -7,23 +7,13 @@
                  start-page="starter.md">
 
     <toc-element topic="starter.md">
-        <toc-element topic="React.md">
-            <toc-element topic="Interaktivität.md"/>
-            <toc-element topic="Props.md"/>
-            <toc-element topic="Setup-with-Vite.md"/>
-            <toc-element topic="Components.md"/>
-            <toc-element topic="Hooks.md">
-            </toc-element>
-            <toc-element topic="Tailwind-CSS-Setup.md"/>
-            <toc-element topic="JSX-Crash-Course.md"/>
-            <toc-element topic="Wrapper-Components.md"/>
-        </toc-element>
         <toc-element topic="Reflexion-schulische-Aufgaben.md">
             <toc-element topic="Schule_16-20-12-2024.md"/>
             <toc-element topic="Schule-06-10-01-25.md"/>
             <toc-element topic="Schule-13-17-01-25.md"/>
             <toc-element topic="Schule-20-24-01-25.md"/>
             <toc-element topic="Schule-27-31-01-25.md"/>
+            <toc-element topic="03-07-02-25.md"/>
         </toc-element>
         <toc-element topic="Reflexion.md">
             <toc-element topic="09-13-12-2024.md"/>
